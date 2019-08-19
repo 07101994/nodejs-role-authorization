@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+/ClientApp/RestApiClient/.vs/RestApiClient/v16
+/ClientApp/RestApiClient/RestApiClient/RestApiClient/bin/Debug/netstandard2.0
+/ClientApp/RestApiClient/RestApiClient/RestApiClient/obj
+/ClientApp/RestApiClient/RestApiClient/RestApiClient.Android/bin/Debug
+/ClientApp/RestApiClient/RestApiClient/RestApiClient.Android/obj
+*.user
